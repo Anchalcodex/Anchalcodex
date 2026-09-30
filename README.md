@@ -93,22 +93,6 @@ A software development application designed to analyze source code and provide a
 
 ---
 
-### Predictive Green Corridor System
-
-An intelligent traffic management system designed to predict emergency vehicle arrival and proactively coordinate traffic signals.
-
-**Technologies:** Python, Machine Learning, AI, GPS Simulation
-
----
-
-### Smart Expense Tracker MCP Server
-
-An MCP-based expense management application designed to perform expense-related operations through an AI-integrated workflow.
-
-**Technologies:** Python, MCP, AI, Backend Development
-
----
-
 ## Currently Learning
 
 - Agentic AI
